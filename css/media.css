@@ -1,0 +1,460 @@
+@media(max-width:1199px){
+    .question {
+        padding: 30px 0px;
+        padding-bottom: 0px;
+    }
+}
+
+@media(max-width:991px) {
+    .method_box {
+        height: auto;
+    }
+
+    .btn-acc:not(:disabled):not(.disabled) {
+        cursor: pointer;
+        color: #fff;
+        font-weight: 600;
+        font-size: 16px;
+        text-decoration: none;
+    }
+
+    .accordion>.card>.card-header {
+        background-color: var(--cs-primary);
+        padding: 5px;
+    }
+
+    .accordian_icon {
+        background: transparent;
+    }
+
+    .accordian_icon i {
+        color: #fff;
+    }
+
+    .term {
+        width: 43%;
+    }
+
+    .faq {
+        padding: 40px 15px;
+    }
+
+    .features {
+        padding: 40px 15px
+    }
+
+    .brief {
+        padding: 40px 15px;
+    }
+
+    .question {
+        padding: 0;
+        padding-top: 40px;
+    }
+
+    .overlay {
+        padding: 40px 15px;
+    }
+
+    .review {
+        padding: 40px 15px;
+    }
+
+    .stayhead {
+        padding: 40px 15px;
+    }
+
+    
+
+}
+
+
+
+@media(max-width:768px) {
+    .navbar-brand img {
+        width: 70%;
+    }
+
+    .hero_title h1 {
+        font-size: 32px;
+    }
+
+    .hero {
+        padding: 30px 15px;
+    }
+
+    .hero_form {
+        padding: 20px;
+    }
+
+    .hero_video {
+        margin-top: 50px;
+    }
+
+    .brand_image {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .features {
+        padding: 40px 15px;
+    }
+
+    .feature_title h2 {
+        font-size: 28px;
+    }
+
+    .feature_title p {
+        font-size: 16px;
+    }
+
+    .feature_list ul li p {
+        font-size: 16px;
+    }
+
+    .feature_list ul li i {
+        margin-right: 15px;
+        font-size: 20px;
+    }
+
+    .brief {
+        padding: 40px 15px;
+    }
+
+    .brief_title h2 {
+        font-size: 28px;
+    }
+
+    .look h2 {
+        font-size: 28px;
+    }
+
+    .look_image {
+        margin: 30px 0px;
+    }
+
+    .look p {
+        font-size: 16px;
+    }
+
+    .question h2 {
+        font-size: 28px;
+    }
+
+    .question p {
+        font-size: 16px;
+    }
+
+    .question {
+        padding: 0;
+        padding-top: 30px;
+    }
+
+    .overlay {
+        padding: 40px 15px;
+    }
+
+    .method_title h2 {
+        font-size: 28px;
+    }
+
+    .method_title p {
+        font-size: 16px;
+    }
+
+    .mthod_head p {
+        font-size: 14px;
+    }
+
+    .method_box h5 {
+        font-size: 16px;
+        padding: 20px;
+    }
+
+    .method_box {
+        height: auto;
+    }
+
+    .review {
+        padding: 40px 15px;
+    }
+
+    .rev_title h2 {
+        font-size: 28px;
+    }
+
+    .review_box {
+        padding: 10px;
+    }
+
+    .stayhead {
+        padding: 40px 15px;
+    }
+
+    .faq {
+        padding: 40px 15px;
+    }
+
+    .accordion {
+        overflow-anchor: none;
+        padding-top: 30px;
+    }
+
+    .accordion>.card>.card-header {
+        background-color: var(--cs-primary);
+        padding: 0;
+        padding: 3px;
+    }
+
+    .btn-acc:not(:disabled):not(.disabled) {
+        font-size: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .accordian_icon {
+        background: transparent;
+    }
+
+    .accordian_icon i {
+        color: #fff;
+    }
+
+    .high_content h2 {
+        font-size: 28px;
+    }
+
+    .high_table {
+        width: 100%;
+        margin: auto;
+    }
+
+    .highlights {
+        padding: 40px 15px;
+    }
+
+    .hpad {
+        padding: 0;
+    }
+
+    .footer {
+        padding: 30px 15px 100px 15px;
+    }
+
+    .footer_content p {
+        font-size: 13px;
+    }
+
+    .term {
+        width: 50%;
+        justify-content: space-evenly;
+    }
+
+    .term a {
+        font-size: 13px;
+    }
+
+    .fixed_reg {
+        display: block;
+    }
+
+    .high_content {
+        text-align: center;
+        padding-bottom: 25px;
+    }
+}
+
+@media(max-width:425px) {
+    .navbar-brand img {
+        width: 100%;
+    }
+
+    .header_btn {
+        display: none;
+    }
+
+    .hero_title h1 {
+        font-size: 32px;
+    }
+
+    .hero {
+        padding: 30px 15px;
+    }
+
+    .hero_form {
+        padding: 15px;
+    }
+
+    .hero_video {
+        margin-top: 50px;
+    }
+
+    .brand_image {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .features {
+        padding: 30px 15px;
+    }
+
+    .feature_title h2 {
+        font-size: 28px;
+    }
+
+    .feature_title p {
+        font-size: 16px;
+    }
+
+    .feature_list ul li p {
+        font-size: 16px;
+    }
+
+    .feature_list ul li i {
+        margin-right: 15px;
+        font-size: 20px;
+    }
+
+    .brief {
+        padding: 30px 15px;
+    }
+
+    .brief_title h2 {
+        font-size: 28px;
+    }
+
+    .look h2 {
+        font-size: 28px;
+    }
+
+    .look_image {
+        margin: 30px 0px;
+    }
+
+    .look p {
+        font-size: 16px;
+    }
+
+    .question h2 {
+        font-size: 28px;
+    }
+
+    .question p {
+        font-size: 16px;
+    }
+
+    .question {
+        padding: 0;
+        padding-bottom: 20px;
+    }
+
+    .overlay {
+        padding: 30px 15px;
+    }
+
+    .method_title h2 {
+        font-size: 28px;
+    }
+
+    .method_title p {
+        font-size: 16px;
+    }
+
+    .mthod_head p {
+        font-size: 14px;
+    }
+
+    .method_box h5 {
+        font-size: 16px;
+        padding: 20px;
+    }
+
+    .method_box {
+        height: auto;
+    }
+
+    .review {
+        padding: 30px 15px;
+    }
+
+    .rev_title h2 {
+        font-size: 28px;
+    }
+
+    .review_box {
+        padding: 10px;
+    }
+
+    .stayhead {
+        padding: 30px 15px;
+    }
+
+    .faq {
+        padding: 30px 15px;
+    }
+
+    .accordion {
+        overflow-anchor: none;
+        padding-top: 30px;
+    }
+
+    .accordion>.card>.card-header {
+        background-color: var(--cs-primary);
+        padding: 0;
+        padding: 3px;
+    }
+
+    .btn-acc:not(:disabled):not(.disabled) {
+        font-size: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .accordian_icon {
+        background: transparent;
+    }
+
+    .accordian_icon i {
+        color: #fff;
+    }
+
+    .high_content h2 {
+        font-size: 28px;
+    }
+
+    .high_table {
+        width: 100%;
+        margin: auto;
+    }
+
+    .highlights {
+        padding: 30px 15px;
+    }
+
+    .hpad {
+        padding: 0;
+    }
+
+    .footer {
+        padding: 30px 15px 100px 15px;
+    }
+
+    .footer_content p {
+        font-size: 13px;
+    }
+
+    .term {
+        width: 100%;
+        justify-content: space-around;
+    }
+
+    .term a {
+        font-size: 13px;
+    }
+
+    .fixed_reg {
+        display: block;
+    }
+}
